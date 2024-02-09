@@ -1,6 +1,7 @@
 package primeiro_exemplo;
 
 public class Hello {
+    
 public static void main(String[] args) {
 
     int cont = 10;
