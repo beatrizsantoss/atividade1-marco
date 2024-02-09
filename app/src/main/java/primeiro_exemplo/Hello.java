@@ -7,6 +7,8 @@ public static void main(String[] args) {
     String nome ="Beatriz";
     System.out.println("Olá Mundo!!");
     System.out.println("Tudo bem?");
+
+    System.out.println(cont + ":" + nome);
 }
 }
 
