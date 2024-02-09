@@ -1,0 +1,11 @@
+plugins {
+    id "aplication"
+}
+
+repositories {
+    mavenCentral()
+}
+
+application {
+    mainClass + "primeiro_exemplo.HSello"
+}
